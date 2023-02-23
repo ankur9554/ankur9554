@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ankur9554
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Vikas Pandey
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me - via email- ankurbst95@gmail.com
 
 <!---
